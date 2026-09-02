@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact :- Hope And Music🎵 are the reasons to live.
 
-- ⭕ Currently working on MYSELF, there are So MUCH MORE TO DO!
+- ⭕ Trying to be better day by day!
 <br>
 
 <h3 align="left">Connect with me:</h3>
