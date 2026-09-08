@@ -12,7 +12,7 @@
 
 - 🌱 I’m learning Python & C# and some other programming languages.
 
-- 📫 How to reach me **alirezaplusbusiness@gmail.com**
+- 📫 How to reach me **me@unfazed.ir**
 
 - ⚡ Fun fact :- Hope And Music🎵 are the reasons to live.
 
