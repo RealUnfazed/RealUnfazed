@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  alirezaplusbusiness@gmail.com
+  me@unfazed.ir
 </p>
 
 <br>
