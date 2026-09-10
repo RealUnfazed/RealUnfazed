@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> · Building toward something.
+  <a href="https://unfazed.ir">
+    <img src="https://img.shields.io/badge/BUILDING_TOWARD-SOMETHING-d7ff39?style=for-the-badge&labelColor=262626&logo=heart&logoColor=d7ff39" alt="Building toward something">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Software Engineer</strong> · Building software, experimenting with ideas, and learning along the way.
 </p>
 
 <p align="center">
   <a href="https://github.com/RealUnfazed">
-    <img src="https://komarev.com/ghpvc/?username=RealUnfazed&style=flat-square&color=18181b&label=PROFILE+VIEWS" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=RealUnfazed&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile views">
   </a>
 </p>
 
@@ -76,10 +82,14 @@ Small utilities and tools built to solve annoying problems.
 
 <p align="center">
   <a href="https://github.com/RealUnfazed">
-    <img src="https://img.shields.io/badge/GitHub-RealUnfazed-18181b?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/github/followers/RealUnfazed?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" alt="GitHub followers">
   </a>
-  <img src="https://img.shields.io/github/followers/RealUnfazed?style=for-the-badge&label=Followers&color=18181b" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/RealUnfazed?style=for-the-badge&label=Stars&color=18181b" alt="GitHub stars">
+  <a href="https://github.com/RealUnfazed?tab=repositories">
+    <img src="https://img.shields.io/github/stars/RealUnfazed?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=f5c518" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/RealUnfazed">
+    <img src="https://img.shields.io/github/last-commit/RealUnfazed/RealUnfazed?style=for-the-badge&logo=github&logoColor=white&label=Last%20Commit&color=2ea44f" alt="Last commit">
+  </a>
 </p>
 
 ---
@@ -88,16 +98,18 @@ Small utilities and tools built to solve annoying problems.
 
 <p align="center">
   <a href="https://github.com/RealUnfazed">
-    <img src="https://img.shields.io/badge/GitHub-RealUnfazed-18181b?style=flat-square&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-RealUnfazed-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://x.com/realunfazed">
-    <img src="https://img.shields.io/badge/X-RealUnfazed-18181b?style=flat-square&logo=x" alt="X">
+    <img src="https://img.shields.io/badge/X-RealUnfazed-000000?style=flat-square&logo=x&logoColor=white" alt="X">
   </a>
   <a href="mailto:me@unfazed.ir">
-    <img src="https://img.shields.io/badge/Email-me%40unfazed.ir-18181b?style=flat-square&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-me%40unfazed.ir-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <p align="center">
-  <strong>Build toward something real.</strong>
+  <a href="https://unfazed.ir">
+    <img src="https://img.shields.io/badge/BUILD_TOWARD-SOMETHING_REAL-d7ff39?style=for-the-badge&labelColor=262626&logo=heart&logoColor=d7ff39" alt="Build toward something real">
+  </a>
 </p>
