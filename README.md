@@ -1,92 +1,103 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">Software Engineer and CC🌟.</h3>
 
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=RealUnfazed&label=Profile%20views&color=0e75b6&style=flat"
-    alt="RealUnfazed" /> 
-  </p>
-
-<br>
-
-
-- 🌱 I’m learning Python & C# and some other programming languages.
-
-- 📫 How to reach me **me@unfazed.ir**
-
-- ⚡ Fun fact :- Hope And Music🎵 are the reasons to live.
-
-- ⭕ Trying to be better day by day!
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  me@unfazed.ir
+<p align="center">
+  <strong>Software Engineer</strong> · Building toward something.
 </p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/RealUnfazed">
+    <img src="https://komarev.com/ghpvc/?username=RealUnfazed&style=flat-square&color=18181b&label=PROFILE+VIEWS" alt="Profile views">
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+---
 
-<br>
+### About Me
 
+I'm a software engineer focused on **building real things, learning through doing, and turning ideas into working software**.
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=RealUnfazed&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="RealUnfazed" 
-    bg_color=#808080/></p>
+I enjoy working across **web applications, backend systems, desktop software, Android apps, automation, AI experiments, and developer tools**.
 
-<br>
+* 🔭 Currently building personal projects and experimenting with new ideas
+* 🌱 Always learning and improving
+* 🧠 Interested in backend engineering, AI, automation, software architecture, and developer tooling
+* 🎵 Music keeps me going
+* 🚀 Building, learning, iterating, and shipping
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RealUnfazed&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
-    alt="RealUnfazed" /></p>
+---
 
-<br>
+### Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RealUnfazed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="RealUnfazed" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,cs,kotlin,python&perline=8" alt="Languages">
+  </a>
+</p>
 
-[AlirezaPlus](https://github.com/RealUnfazed)
+### Tools & Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,nodejs,git,github,wordpress,tailwind,ps,pr&perline=9" alt="Tools and technologies">
+  </a>
+</p>
+
+### AI & Developer Tools
+
+<p align="center">
+  <code>Claude</code> ·
+  <code>ChatGPT</code> ·
+  <code>DeepSeek</code> ·
+  <code>Gemini</code>
+</p>
+
+---
+
+### What I Build
+
+🌐 **Web Applications**
+Backend systems, websites, APIs, dashboards, and self-hosted services.
+
+🖥️ **Desktop Software**
+Windows utilities and applications focused on practical use.
+
+📱 **Android Applications**
+Native Android projects and experiments.
+
+🤖 **AI Projects**
+Local AI experiments, automation, computer vision, voice, and other practical applications.
+
+🔧 **Developer Tools**
+Small utilities and tools built to solve annoying problems.
+
+---
+
+### GitHub
+
+<p align="center">
+  <a href="https://github.com/RealUnfazed">
+    <img src="https://img.shields.io/badge/GitHub-RealUnfazed-18181b?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/github/followers/RealUnfazed?style=for-the-badge&label=Followers&color=18181b" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/RealUnfazed?style=for-the-badge&label=Stars&color=18181b" alt="GitHub stars">
+</p>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://github.com/RealUnfazed">
+    <img src="https://img.shields.io/badge/GitHub-RealUnfazed-18181b?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://x.com/realunfazed">
+    <img src="https://img.shields.io/badge/X-RealUnfazed-18181b?style=flat-square&logo=x" alt="X">
+  </a>
+  <a href="mailto:alirezaplusbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alirezaplusbusiness%40gmail.com-18181b?style=flat-square&logo=gmail" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Build toward something real.</strong>
+</p>
