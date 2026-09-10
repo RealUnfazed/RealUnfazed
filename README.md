@@ -93,8 +93,8 @@ Small utilities and tools built to solve annoying problems.
   <a href="https://x.com/realunfazed">
     <img src="https://img.shields.io/badge/X-RealUnfazed-18181b?style=flat-square&logo=x" alt="X">
   </a>
-  <a href="mailto:alirezaplusbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alirezaplusbusiness%40gmail.com-18181b?style=flat-square&logo=gmail" alt="Email">
+  <a href="mailto:me@unfazed.ir">
+    <img src="https://img.shields.io/badge/Email-me%40unfazed.ir-18181b?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
 
