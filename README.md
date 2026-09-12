@@ -87,9 +87,6 @@ Small utilities and tools built to solve annoying problems.
   <a href="https://github.com/RealUnfazed?tab=repositories">
     <img src="https://img.shields.io/github/stars/RealUnfazed?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=f5c518" alt="GitHub stars">
   </a>
-  <a href="https://github.com/RealUnfazed">
-    <img src="https://img.shields.io/github/last-commit/RealUnfazed/RealUnfazed?style=for-the-badge&logo=github&logoColor=white&label=Last%20Commit&color=2ea44f" alt="Last commit">
-  </a>
 </p>
 
 ---
