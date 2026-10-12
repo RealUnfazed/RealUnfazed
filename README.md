@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/RealUnfazed">
-    <img src="https://komarev.com/ghpvc/?username=RealUnfazed&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile views">
+    <img src="https://unfazed.ir/tools/profileviews.php?username=RealUnfazed" alt="Profile views">
   </a>
 </p>
 
